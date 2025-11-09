@@ -1,7 +1,7 @@
 ## Lottery Protocol 
-**a decencentralized lottery contract where users participate by entering the lottery pool, and a random winner is chosen at intervals, Chainlink VRF was integrated to ensure cryptographically secure off-chain randomness , making the selection process fair and tamper-proof.
-Tools Used are: Solidity, Chainlink VRF, Foundry , Vscode , git .and Ethereum. 
- **
+A decencentralized lottery contract where users participate by entering the lottery pool, and a random winner is chosen at intervals, Chainlink VRF was integrated to ensure cryptographically secure off-chain randomness , making the selection process fair and tamper-proof.
+**Tools Used are: Solidity, Chainlink VRF, Foundry , Vscode , git .and Ethereum.** 
+ 
 
 
 
